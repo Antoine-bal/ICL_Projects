@@ -1,1 +1,1 @@
-Market Microstructure project aiming at implementing Uncertainty Zones Model to Geometric Brownian Motions and calculating integrated covariance through different methods including Hayashi-Yoshida Estimator
+Market Microstructure project aiming at implementing Uncertainty Zones Model to correlatd Geometric Brownian Motions and calculating integrated covariance through different methods including Hayashi-Yoshida Estimator
